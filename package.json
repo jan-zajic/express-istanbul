@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ORESoftware/express-istanbul#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "istanbul-middleware": "^0.2.2"
+    "istanbul-middleware": "jan-zajic/istanbul-middleware#master"
   }
 }
